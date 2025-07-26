@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+  <cbc:ProfileID>reporting:1.0</cbc:ProfileID>
+  <cbc:ID>1285</cbc:ID>
+  <cbc:UUID>70474738-5d6c-4dee-b074-32be36c635b8</cbc:UUID>
+  <cbc:IssueDate>2025-05-29</cbc:IssueDate>
+  <cbc:IssueTime>15:31:53Z</cbc:IssueTime>
+  <cbc:InvoiceTypeCode name="0100000">388</cbc:InvoiceTypeCode>
+  <cbc:DocumentCurrencyCode>SAR</cbc:DocumentCurrencyCode>
+  <cbc:TaxCurrencyCode>SAR</cbc:TaxCurrencyCode>
+  <cbc:LineCountNumeric>16</cbc:LineCountNumeric>
+  <cac:AdditionalDocumentReference>
+    <cbc:ID>ICV</cbc:ID>
+    <cbc:UUID>234</cbc:UUID>
+  </cac:AdditionalDocumentReference>
+  <cac:AdditionalDocumentReference>
+    <cbc:ID>PIH</cbc:ID>
+    <cac:Attachment>
+      <cbc:EmbeddedDocumentBinaryObject mimeCode="text/plain">NWZlY2ViNjZmZmM4NmYzOGQ5NTI3ODZjNmQ2OTZjNzljMmRiYzIzOWRkNGU5MWI0NjcyOWQ3M2EyN2ZiNTdlOQ==</cbc:EmbeddedDocumentBinaryObject>
+    </cac:Attachment>
+  </cac:AdditionalDocumentReference>
+  <cac:AccountingSupplierParty>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID schemeID="CRN">4030407286</cbc:ID>
+      </cac:PartyIdentification>
+      <cac:PostalAddress>
+        <cbc:StreetName>23213</cbc:StreetName>
+        <cbc:BuildingNumber>6587</cbc:BuildingNumber>
+        <cbc:CitySubdivisionName>3778</cbc:CitySubdivisionName>
+        <cbc:CityName>JEDDAH</cbc:CityName>
+        <cbc:PostalZone>23213</cbc:PostalZone>
+        <cac:Country>
+          <cbc:IdentificationCode>SA</cbc:IdentificationCode>
+        </cac:Country>
+      </cac:PostalAddress>
+      <cac:PartyTaxScheme>
+        <cbc:CompanyID>301150502600003</cbc:CompanyID>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:PartyTaxScheme>
+      <cac:PartyLegalEntity>
+        <cbc:RegistrationName>EMAAR ELTNMIAH TRADING EST</cbc:RegistrationName>
+      </cac:PartyLegalEntity>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <cac:AccountingCustomerParty>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID schemeID="CRN">6218</cbc:ID>
+      </cac:PartyIdentification>
+      <cac:PostalAddress>
+        <cac:Country>
+          <cbc:IdentificationCode>SA</cbc:IdentificationCode>
+        </cac:Country>
+      </cac:PostalAddress>
+    </cac:Party>
+  </cac:AccountingCustomerParty>
+  <cac:Delivery>
+    <cbc:ActualDeliveryDate>2022-10-22</cbc:ActualDeliveryDate>
+    <cbc:LatestDeliveryDate>2022-10-23</cbc:LatestDeliveryDate>
+  </cac:Delivery>
+  <cac:PaymentMeans>
+    <cbc:PaymentMeansCode>10</cbc:PaymentMeansCode>
+  </cac:PaymentMeans>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="SAR">864.95</cbc:TaxAmount>
+    <cac:TaxSubtotal>
+      <cbc:TaxableAmount currencyID="SAR">5766.30</cbc:TaxableAmount>
+      <cbc:TaxAmount currencyID="SAR">864.95</cbc:TaxAmount>
+      <cac:TaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:TaxCategory>
+    </cac:TaxSubtotal>
+  </cac:TaxTotal>
+  <cac:TaxTotal>
+    <cbc:TaxAmount currencyID="SAR">864.95</cbc:TaxAmount>
+  </cac:TaxTotal>
+  <cac:LegalMonetaryTotal>
+    <cbc:LineExtensionAmount currencyID="SAR">5766.30</cbc:LineExtensionAmount>
+    <cbc:TaxExclusiveAmount currencyID="SAR">5766.30</cbc:TaxExclusiveAmount>
+    <cbc:TaxInclusiveAmount currencyID="SAR">6631.25</cbc:TaxInclusiveAmount>
+    <cbc:AllowanceTotalAmount currencyID="SAR">0.00</cbc:AllowanceTotalAmount>
+    <cbc:ChargeTotalAmount currencyID="SAR">0.00</cbc:ChargeTotalAmount>
+    <cbc:PayableAmount currencyID="SAR">6631.25</cbc:PayableAmount>
+  </cac:LegalMonetaryTotal>
+  <cac:InvoiceLine>
+    <cbc:ID>1</cbc:ID>
+    <cbc:InvoicedQuantity>15</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">150.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">22.50</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">172.50</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>apple</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">10</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>2</cbc:ID>
+    <cbc:InvoicedQuantity>3</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">255.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">38.25</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">293.25</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>110MM ELBOW 90* UPVC CLASS-5 NEPROPLAST</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">85</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>3</cbc:ID>
+    <cbc:InvoicedQuantity>1</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">40.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">6.00</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">46.00</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>pineapple</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">40</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>4</cbc:ID>
+    <cbc:InvoicedQuantity>3</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">27.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">4.05</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">31.05</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>3.6X300mm CABLE TIE</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">9</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>5</cbc:ID>
+    <cbc:InvoicedQuantity>1</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">7.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">1.05</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">8.05</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>2.5X150mm CABLE TIE</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">7</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>6</cbc:ID>
+    <cbc:InvoicedQuantity>2</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">450.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">67.50</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">517.50</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>315mm Pipe HDPE-Pe100 SDR11</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">225</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>7</cbc:ID>
+    <cbc:InvoicedQuantity>1</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">52.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">7.80</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">59.80</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>110MM COUPLING UPVC CLASS-5 NEPROPLAST</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">52</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>8</cbc:ID>
+    <cbc:InvoicedQuantity>2</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">7.80</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">1.17</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">8.97</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>32 MM TEE PPR</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">3.9</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>9</cbc:ID>
+    <cbc:InvoicedQuantity>1</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">326.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">48.90</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">374.90</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>110mm PIPE 8.2mm CLASS-5 S/J NEPRO</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">326</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>10</cbc:ID>
+    <cbc:InvoicedQuantity>1</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">16.50</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">2.48</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">18.98</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>110x63 BUSHING CLAS 5</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">16.5</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>11</cbc:ID>
+    <cbc:InvoicedQuantity>1</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">95.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">14.25</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">109.25</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>3M EAR PLUG</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">95</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>12</cbc:ID>
+    <cbc:InvoicedQuantity>1</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">55.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">8.25</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">63.25</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>6 KG Fire Extinguisher Dcp</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">55</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>13</cbc:ID>
+    <cbc:InvoicedQuantity>1</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">10.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">1.50</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">11.50</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>50MM TEE CLASS 5</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">10</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>14</cbc:ID>
+    <cbc:InvoicedQuantity>1</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">2695.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">404.25</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">3099.25</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>45 Degree ELBOW 400</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">2695</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>15</cbc:ID>
+    <cbc:InvoicedQuantity>1</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">670.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">100.50</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">770.50</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>4MM 3 Core Flexible Cable-90Mtr/Roll</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">670</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+  <cac:InvoiceLine>
+    <cbc:ID>16</cbc:ID>
+    <cbc:InvoicedQuantity>1</cbc:InvoicedQuantity>
+    <cbc:LineExtensionAmount currencyID="SAR">910.00</cbc:LineExtensionAmount>
+    <cac:TaxTotal>
+      <cbc:TaxAmount currencyID="SAR">136.50</cbc:TaxAmount>
+      <cbc:RoundingAmount currencyID="SAR">1046.50</cbc:RoundingAmount>
+    </cac:TaxTotal>
+    <cac:Item>
+      <cbc:Name>3 Core 4MM Flexible Cable Black 91 Mtr/Roll</cbc:Name>
+      <cac:ClassifiedTaxCategory>
+        <cbc:ID>S</cbc:ID>
+        <cbc:Percent>15.00</cbc:Percent>
+        <cac:TaxScheme>
+          <cbc:ID>VAT</cbc:ID>
+        </cac:TaxScheme>
+      </cac:ClassifiedTaxCategory>
+    </cac:Item>
+    <cac:Price>
+      <cbc:PriceAmount currencyID="SAR">910</cbc:PriceAmount>
+      <cbc:BaseQuantity>1.00</cbc:BaseQuantity>
+    </cac:Price>
+  </cac:InvoiceLine>
+</Invoice>

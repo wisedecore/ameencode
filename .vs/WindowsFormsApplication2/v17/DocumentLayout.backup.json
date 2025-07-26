@@ -1,0 +1,1111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Company code\\AMEEN VS2022 jan 30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmledgercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmledgercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsaccountledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsaccountledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmledgercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmledgercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmsalesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmsalesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|d:\\company code\\ameen vs2022 jan 30\\windowsformsapplication2\\interface\\frmledgercreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmledgercreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\formclass\\clssales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\formclass\\clssales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\genclass\\nextgfuntion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\genclass\\nextgfuntion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\dbtask\\sqlcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\dbtask\\sqlcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|d:\\company code\\ameen vs2022 jan 30\\windowsformsapplication2\\dbtask\\dbtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\dbtask\\dbtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmexcelimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmexcelimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\genclass\\clsinvlaserfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\genclass\\clsinvlaserfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\genclass\\clsinvlaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\genclass\\clsinvlaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsphasetwocompanyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsphasetwocompanyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\genclass\\clssecondphase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\genclass\\clssecondphase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\usercontroles\\uscnormaltextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\usercontroles\\uscnormaltextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\mdiparent2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\mdiparent2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsbusinessissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsbusinessissue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\formclass\\commonclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\formclass\\commonclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsreceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsreceiptdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clstransactionrceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clstransactionrceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmsalesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmsalesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmexcelimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmexcelimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmquickadditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmquickadditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsbatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsbatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsissuedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsissuedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clscompanycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clscompanycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsgeneralledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsgeneralledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\genclass\\generalfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\genclass\\generalfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmreport2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmreport2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmselectpurchasereportnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmselectpurchasereportnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmselectpurchasereportnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmselectpurchasereportnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsparamlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsparamlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmcash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmcommandwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmcommandwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmcommandwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmcommandwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmaccountgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmaccountgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmitemgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmitemgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmitemgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmitemgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmaccountgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmaccountgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmquickadditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmquickadditems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmreport2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmreport2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsitemmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsitemmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsitemcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsitemcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\formclass\\clspurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\formclass\\clspurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmselectsalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmselectsalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmselectsalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmselectsalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsaccountgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsaccountgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmreportselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmreportselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\mdiparent2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\mdiparent2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\bussinesslogic\\clsbillsettpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\bussinesslogic\\clsbillsettpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\genclass\\lprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\genclass\\lprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmcreatecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmcreatecompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmareacreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmareacreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmautogenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmautogenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|D:\\Company code\\AMEEN VS2022 jan 30\\windowsformsapplication2\\interface\\frmautogenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA83B35-C968-42FE-8604-DF52E022AA10}|WindowsFormsApplication2\\EasyG.csproj|solutionrelative:windowsformsapplication2\\interface\\frmautogenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Frmexcelimport.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmexcelimport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmexcelimport.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmexcelimport.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmexcelimport.cs",
+              "ViewState": "AgIAAC0HAAAAAAAAAAD4vxwHAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:32:08.374Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClsIssueDetails.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsIssueDetails.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsIssueDetails.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsIssueDetails.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsIssueDetails.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAwwIMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:48:32.656Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSalesInvoice.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmSalesInvoice.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmSalesInvoice.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmSalesInvoice.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmSalesInvoice.cs",
+              "ViewState": "AgIAAH4iAAAAAAAAAAAtwDoiAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:32:35.616Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClsReceiptDetails.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsReceiptDetails.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsReceiptDetails.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsReceiptDetails.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsReceiptDetails.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:46:23.504Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLedgerCreate.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmLedgerCreate.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmLedgerCreate.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmLedgerCreate.cs*",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmLedgerCreate.cs*",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAtwIgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:12:42.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsAccountLedger.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsAccountLedger.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsAccountLedger.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsAccountLedger.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsAccountLedger.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAcwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:14:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLedgerCreate.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmLedgerCreate.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmLedgerCreate.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmLedgerCreate.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmLedgerCreate.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:12:35.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLedgerCreate.Designer.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmLedgerCreate.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmLedgerCreate.Designer.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmLedgerCreate.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmLedgerCreate.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowEkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:20:31.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clssales.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\FormClass\\Clssales.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\FormClass\\Clssales.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\FormClass\\Clssales.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\FormClass\\Clssales.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAtwC8BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T04:19:26.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmReport.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmReport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmReport.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmReport.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmReport.cs",
+              "ViewState": "AgIAAAQFAAAAAAAAAAAtwBQFAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:09:35.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NextGFuntion.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\GenClass\\NextGFuntion.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\GenClass\\NextGFuntion.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\GenClass\\NextGFuntion.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\GenClass\\NextGFuntion.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAtwDIBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:12:58.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmLogin.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmLogin.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmLogin.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAtwFsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:33:59.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLCON.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\DBTask\\SQLCON.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\DBTask\\SQLCON.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\DBTask\\SQLCON.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\DBTask\\SQLCON.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:14:44.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBTasks.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\DBTask\\DBTasks.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\DBTask\\DBTasks.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\DBTask\\DBTasks.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\DBTask\\DBTasks.cs",
+              "ViewState": "AgIAAIwEAAAAAAAAAIA3wJsEAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:13:30.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClsinvlaserFive.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\GenClass\\ClsinvlaserFive.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\GenClass\\ClsinvlaserFive.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\GenClass\\ClsinvlaserFive.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\GenClass\\ClsinvlaserFive.cs",
+              "ViewState": "AgIAAPIJAAAAAAAAAAAAAPIJAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:49:33.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Clsinvlaser.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\GenClass\\Clsinvlaser.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\GenClass\\Clsinvlaser.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\GenClass\\Clsinvlaser.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\GenClass\\Clsinvlaser.cs",
+              "ViewState": "AgIAAJgEAAAAAAAAAAAlwKgEAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:52:36.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Clssecondphase.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\GenClass\\Clssecondphase.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\GenClass\\Clssecondphase.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\GenClass\\Clssecondphase.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\GenClass\\Clssecondphase.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAD4vwMBAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:15:11.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClsPHASEtwocompanyprofile.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsPHASEtwocompanyprofile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsPHASEtwocompanyprofile.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsPHASEtwocompanyprofile.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsPHASEtwocompanyprofile.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAlwFYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:05:59.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Uscnormaltextbox.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\UserControles\\Uscnormaltextbox.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\UserControles\\Uscnormaltextbox.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\UserControles\\Uscnormaltextbox.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\UserControles\\Uscnormaltextbox.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAtwDYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:41:31.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MDIParent2.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\MDIParent2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\MDIParent2.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\MDIParent2.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\MDIParent2.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAtwHwBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:58:51.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClsBusinessIssue.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsBusinessIssue.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsBusinessIssue.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsBusinessIssue.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsBusinessIssue.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAwwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:09:13.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CommonClass.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\FormClass\\CommonClass.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\FormClass\\CommonClass.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\FormClass\\CommonClass.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\FormClass\\CommonClass.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAD4v0EAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:32:35.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClsTransactionRceipt.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsTransactionRceipt.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsTransactionRceipt.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsTransactionRceipt.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsTransactionRceipt.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAwwIwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:43:33.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmSalesInvoice.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmSalesInvoice.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmSalesInvoice.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmSalesInvoice.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmSalesInvoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:32:35.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Frmexcelimport.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmexcelimport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmexcelimport.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmexcelimport.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmexcelimport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:28:54.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Frmpurchase.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmpurchase.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmpurchase.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmpurchase.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmpurchase.cs",
+              "ViewState": "AgIAAGMEAAAAAAAAAAD4v2MEAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:52:36.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Frmpurchase.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmpurchase.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmpurchase.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmpurchase.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmpurchase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:50:49.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Frmquickadditems.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmquickadditems.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmquickadditems.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmquickadditems.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmquickadditems.cs",
+              "ViewState": "AgIAAOMBAAAAAAAAAAAtwPMBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:34:52.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClsInventory.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsInventory.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsInventory.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsInventory.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsInventory.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAI0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:51:00.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Clsbatch.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\Clsbatch.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\Clsbatch.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\Clsbatch.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\Clsbatch.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAwwFMBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:08:49.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClsCompanyCreate.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsCompanyCreate.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsCompanyCreate.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsCompanyCreate.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsCompanyCreate.cs",
+              "ViewState": "AgIAAAUTAAAAAAAAAAAmwAkTAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:32:35.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Frmcash.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmcash.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmcash.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmcash.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmcash.cs",
+              "ViewState": "AgIAAKoEAAAAAAAAAAAmwLkEAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:12:45.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClsGeneralLedger.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsGeneralLedger.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsGeneralLedger.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsGeneralLedger.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsGeneralLedger.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwGsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T10:29:42.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Generalfunction.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\GenClass\\Generalfunction.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\GenClass\\Generalfunction.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\GenClass\\Generalfunction.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\GenClass\\Generalfunction.cs",
+              "ViewState": "AgIAAEEGAAAAAAAAAAD4v08GAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:22:15.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Frmreport2.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmreport2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmreport2.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmreport2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmreport2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:50:59.208Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmReport.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmReport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmReport.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmReport.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:50:57.829Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ClsUserDetails.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsUserDetails.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsUserDetails.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsUserDetails.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsUserDetails.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAlwHkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:36:50.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Frmusers.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmusers.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmusers.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmusers.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmusers.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAvwDQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:36:11.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Frmusers.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmusers.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmusers.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmusers.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmusers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:36:07.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Frmselectpurchasereportnew.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmselectpurchasereportnew.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmselectpurchasereportnew.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmselectpurchasereportnew.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmselectpurchasereportnew.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAnwG4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:45:32.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Frmselectpurchasereportnew.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmselectpurchasereportnew.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmselectpurchasereportnew.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmselectpurchasereportnew.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmselectpurchasereportnew.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:30:48.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ClsParamlist.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsParamlist.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsParamlist.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsParamlist.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsParamlist.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:25:45.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Frmcash.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmcash.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmcash.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmcash.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmcash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:12:40.896Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Frmcommandwindow.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmcommandwindow.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmcommandwindow.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmcommandwindow.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmcommandwindow.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAuwIMBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:36:15.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Frmcommandwindow.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmcommandwindow.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmcommandwindow.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmcommandwindow.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmcommandwindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:34:08.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmaccountGroup.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\frmaccountGroup.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\frmaccountGroup.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\frmaccountGroup.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\frmaccountGroup.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAwwLAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:29:19.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Frmitemgroup.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmitemgroup.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmitemgroup.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmitemgroup.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmitemgroup.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAIwJkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:27:16.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Frmitemgroup.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmitemgroup.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmitemgroup.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmitemgroup.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmitemgroup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:57:01.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmaccountGroup.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\frmaccountGroup.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\frmaccountGroup.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\frmaccountGroup.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\frmaccountGroup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:29:15.512Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Frmquickadditems.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmquickadditems.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmquickadditems.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmquickadditems.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmquickadditems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:34:44.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "clsitemCategory.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\clsitemCategory.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\clsitemCategory.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\clsitemCategory.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\clsitemCategory.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAwLAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:02:03.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Frmreport2.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmreport2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmreport2.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmreport2.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmreport2.cs",
+              "ViewState": "AgIAAIcRAAAAAAAAAAAWwJARAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T05:29:29.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\app.config",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\app.config",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\app.config",
+              "RelativeToolTip": "WindowsFormsApplication2\\app.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-17T04:44:50.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ClsItemMaster.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsItemMaster.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsItemMaster.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsItemMaster.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsItemMaster.cs",
+              "ViewState": "AgIAAMYBAAAAAAAAAAAAwM4BAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:04:15.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FrmSelectSalesReport.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmSelectSalesReport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmSelectSalesReport.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmSelectSalesReport.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmSelectSalesReport.cs",
+              "ViewState": "AgIAAKoEAAAA//////8pwLYEAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:51:26.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Clspurchase.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\FormClass\\Clspurchase.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\FormClass\\Clspurchase.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\FormClass\\Clspurchase.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\FormClass\\Clspurchase.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:09:32.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FrmSelectSalesReport.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmSelectSalesReport.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmSelectSalesReport.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmSelectSalesReport.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmSelectSalesReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:51:09.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ClsAccountGroup.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsAccountGroup.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsAccountGroup.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsAccountGroup.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsAccountGroup.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:12:12.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Frmreportselect.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmreportselect.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmreportselect.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmreportselect.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmreportselect.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:50:40.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "MDIParent2.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\MDIParent2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\MDIParent2.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\MDIParent2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\MDIParent2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:58:45.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ClsbillsettPR.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsbillsettPR.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\BussinessLogic\\ClsbillsettPR.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\BussinessLogic\\ClsbillsettPR.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\BussinessLogic\\ClsbillsettPR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:09:12.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FrmCreateCompany.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmCreateCompany.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmCreateCompany.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmCreateCompany.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmCreateCompany.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:41:34.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LPrinter.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\GenClass\\LPrinter.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\GenClass\\LPrinter.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\GenClass\\LPrinter.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\GenClass\\LPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:46:22.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmLogin.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:50:13.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Frmareacreate.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmareacreate.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\Frmareacreate.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\Frmareacreate.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\Frmareacreate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:32:35.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FrmAutogenerate.cs",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmAutogenerate.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmAutogenerate.cs",
+              "ToolTip": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmAutogenerate.cs",
+              "RelativeToolTip": "WindowsFormsApplication2\\Interface\\FrmAutogenerate.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAUwK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-16T10:32:35.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FrmAutogenerate.cs [Design]",
+              "DocumentMoniker": "D:\\Company code\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmAutogenerate.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication2\\Interface\\FrmAutogenerate.cs",
+              "ToolTip": "D:\\POURNAMI\\NORMAL\\GCC\\PARTY PROJECT NORMAL\\ameen code 30-1-2025\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmAutogenerate.cs [Design]",
+              "RelativeToolTip": "..\\..\\POURNAMI\\NORMAL\\GCC\\PARTY PROJECT NORMAL\\ameen code 30-1-2025\\AMEEN VS2022 jan 30\\WindowsFormsApplication2\\Interface\\FrmAutogenerate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-05-16T10:32:35.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

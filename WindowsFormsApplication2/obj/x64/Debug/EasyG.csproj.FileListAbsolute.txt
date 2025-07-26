@@ -1,0 +1,246 @@
+E:\ZAT\WindowsFormsApplication2\bin\x64\Debug\Qplex.exe.config
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\Interop.mscoree.dll
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\EasyG.csproj.ResolveComReference.cache
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\ResolveAssemblyReference.cache
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\DSBarCode.BarCodeCtrl.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmmessege.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmAddDepot.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmAgentCreate.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmChengepassword.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmcommandwindow.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmCompanyName.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmCreateCompany.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmdepartment.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmeditwindow.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmexcelimport.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmLogin.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Interface.FrmManufacturer.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmmessgeBox.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmMultiRate.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmprintmain.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmproducttransfering.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmReport.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmreportselect.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmsalesinvoice.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmaccountGroup.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmcash.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmcreateledger.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmdeletecomp.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmemployees.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmitemgroup.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmitems.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmopeningStock.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmpurchase.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmselectaccountreport.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmselectanalysisreport.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmselectdaybook.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmSelectPandL.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmselectQuickReport.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmSelectStockList.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmsettings.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmstockadjustment.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmstockadjustmentgroup.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmStockTRansfer.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmSlabMaster.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmUnits.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmusermonitore.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmaboutus.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmAddenquiry.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmareacreate.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmattendence.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmBackupandrestore.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmbarcodePrinting.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmCashDesk.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmCheckinuser.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmCheque.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmcommision.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmCreateItemclass.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmcreatesizes.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmcustomercard.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmcustomerprojects.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmdailyexpence.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmdiscountslab.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmdressmakers.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmexpiryreport.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmf2.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmimage.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmissuetable.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmJobCard.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmlabelprinting.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmmechinetool.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmphysical.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmpriceupdater.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmreceivedproduct.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmregistration.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmremainder.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmreorderreport.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmRepacking.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmsalespos.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmsearchitems.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmselectproduction.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmselectpurchasereportnew.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmSelectSalesReport.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmselectstocktransfer.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmselectTrailbalance.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmsetmainproduct.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmsettpricecode.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmstockhistory.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmtempcantacts.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmTools.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmunitcreation.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmusercontroles.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmusers.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmVoucherType.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmwebbrowser.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmyearending.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmzatsearch.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.MDIParent2.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Selectzatpandl.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmTransferwindow.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UscGridshowPOS.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UserControles.DtDatetimepicker.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UserControles.Uscbutton.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UscGridshow.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Uscitemshowsimple.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UserControles.UscLedgershow.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UserControles.Uscmenu.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Uscnormaltextbox.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Uscnuemeric.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Uscnuemerictextbox.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UserControles.UscPopup.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Usctext.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmitems.ml-IN.resources
+E:\ZAT\WindowsFormsApplication2\obj\x64\Debug\EasyG.csproj.GenerateResource.Cache
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\bin\x64\Debug\Zshop.exe.config
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\Interop.mscoree.dll
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\EasyG.csproj.ResolveComReference.cache
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\ResolveAssemblyReference.cache
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\DSBarCode.BarCodeCtrl.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmmessege.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmAddDepot.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmAgentCreate.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmChengepassword.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmcommandwindow.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmCompanyName.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmCreateCompany.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmdepartment.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmeditwindow.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmexcelimport.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmLogin.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmManufacturer.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmmessgeBox.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmMultiRate.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmprintmain.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmproducttransfering.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmReport.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmreportselect.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmsalesinvoice.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmaccountGroup.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmcash.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmcreateledger.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmdeletecomp.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmemployees.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmitemgroup.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmitems.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmopeningStock.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmpurchase.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmselectaccountreport.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmselectanalysisreport.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmselectdaybook.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmSelectPandL.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmselectQuickReport.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmSelectStockList.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmsettings.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmstockadjustment.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmstockadjustmentgroup.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmStockTRansfer.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmSlabMaster.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmUnits.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmusermonitore.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmaboutus.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmAddenquiry.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmamc.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmareacreate.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmattendence.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmBackupandrestore.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmbarcodePrinting.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmBaseunit.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmCashDesk.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmCheckinuser.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmCheque.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmcmnd.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmColor.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmcommision.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmCreateItemclass.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmcreatesizes.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmcustomercard.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmcustomerprojects.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmdailyexpence.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmDesigning.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmdiscountslab.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmdressmakers.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmexpiryreport.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmExpirysales.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmf2.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmHoldpopup.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmiconset.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmimage.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmissuetable.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmJobCard.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmlabelprinting.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmmechinetool.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmmsg1.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmphysical.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmpriceupdater.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmProductdetails.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmquickadditems.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmreceivedproduct.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmregistration.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmremainder.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmreorderreport.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmRepacking.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmreport2.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmsalespos.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmsearchitems.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmSelectBillWiseSettlementReport.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmSelectChequeReport.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmselectproduction.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmselectpurchasereportnew.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmSelectSalesReport.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmselectstocktransfer.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmselectTrailbalance.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmsetmainproduct.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmsettpricecode.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmstockhistory.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmtaillorreport.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmtempcantacts.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmTools.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmunitcreation.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmusercontroles.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmusers.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.FrmVoucherType.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmwebbrowser.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmyearending.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmzatsearch.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.MDIParent2.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Selectzatpandl.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.frmTransferwindow.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UscGridshowPOS.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UserControles.DtDatetimepicker.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UserControles.Uscbutton.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UscGridshow.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Uscitemshowsimple.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UserControles.UscLedgershow.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UserControles.Uscmenu.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Uscnormaltextbox.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Uscnuemeric.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Uscnuemerictextbox.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.UserControles.UscPopup.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Usctext.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\WindowsFormsApplication2.Frmitems.ml-IN.resources
+F:\code normal a4\GCC NORMAL 5--4---2022\WindowsFormsApplication2\obj\x64\Debug\EasyG.csproj.GenerateResource.Cache
+D:\POURNAMI\NORMAL\GCC\NORMAL USE\GCC NORMAL 24  ---  4   -- ---- 2024\WindowsFormsApplication2\bin\x64\Debug\Zunico.exe.config
+D:\POURNAMI\NORMAL\GCC\NORMAL USE\GCC NORMAL 24  ---  4   -- ---- 2024\WindowsFormsApplication2\obj\x64\Debug\Interop.mscoree.dll
+D:\POURNAMI\NORMAL\GCC\NORMAL USE\GCC NORMAL 24  ---  4   -- ---- 2024\WindowsFormsApplication2\obj\x64\Debug\EasyG.csproj.ResolveComReference.cache
